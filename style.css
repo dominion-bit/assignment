@@ -1,0 +1,19 @@
+body{
+  margin-left: 510px;
+  margin-top: 150px;
+  background-color:black;
+  
+}
+
+h1,p{color: white;}
+
+
+.imageborder{ 
+  border: 5px solid white; 
+  display: block; 
+  margin: 5px;
+  border-radius: 10px;
+
+}
+
+

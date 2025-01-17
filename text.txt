@@ -1,0 +1,5 @@
+DIFFERENCES BETWEEN BORDER AND OUTLINE
+Placement: border is drawn around the element's box while OUTLINE is drown outside the element box beyond the border
+EFFECT ON LAYOUT: BORDER inceases the element the element size. OUTLINE does not.
+STYLING: BORDER can be styled per  side; outline can not.
+use case: BORDER for structure; outline for focus on emphasis
